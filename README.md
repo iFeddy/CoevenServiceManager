@@ -1,4 +1,6 @@
-# INFO #
+# Coeven Service Manager #
+
+<center><img src="https://raw.githubusercontent.com/iFeddy/CoevenServiceManager/master/cvnServiceManager/cvnservice.jpg"></center>
 
 Service Manager usado del lado del servidor junto con los servicios de Xelion (Fiesta Online, HK) algunas funciones que tiene:
 
@@ -8,3 +10,5 @@ Service Manager usado del lado del servidor junto con los servicios de Xelion (F
 * Agregado Test Server
 
 Para instalarlo tienen que modificar los nombres de los servicios para que sean igual que el servidor. No olvidarse las librerias adjuntas.
+
+
